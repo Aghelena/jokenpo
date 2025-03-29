@@ -43,6 +43,7 @@ JokenPO é um aplicativo mobile desenvolvido em Flutter que permite aos usuário
 ```
 
 ## Demonstração
-![GIF do jogo](https://github.com/seu-usuario/jokenpo-flutter/blob/main/demo.gif)
+![Descrição do GIF](jokenpo)
+
 
 
